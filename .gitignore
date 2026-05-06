@@ -1,0 +1,13 @@
+# Mac
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node
+Frontend/node_modules
+Frontend/.next
+
